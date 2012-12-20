@@ -1,0 +1,4 @@
+Ips válidos: 
+
+Ips inválidos: 
+a.2.3.4
