@@ -1,6 +1,6 @@
-# -*- coding: cp1252 -*-
+#--Print Number same Number of Time as Number
 
-num = int(input("Digite um número inteiro: "))
+num = int(input("Digite um nÃºmero inteiro: "))
 
 def repeat_same_number(num):
     for i in range(num):
